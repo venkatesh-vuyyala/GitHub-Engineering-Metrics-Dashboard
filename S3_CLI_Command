@@ -1,0 +1,11 @@
+# Download AWS CLI 
+
+# Setup CLI with
+aws configure
+
+#Create S3 storage bucket and initiate Access Key ID and Secret access key and enter them.
+
+#Replace It With Your Bucket Name
+
+# To copy all CSV Reference data to same location:
+aws s3 cp . s3://de-on-github-raw-useast1-dev/github/raw_statistics_reference_data/ --recursive --exclude "*" --include "*.csv"

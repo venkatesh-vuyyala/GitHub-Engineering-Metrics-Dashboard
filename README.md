@@ -29,3 +29,7 @@ https://www.kaggle.com/datasets/nikhil25803/github-dataset
 ## Architecture Diagram
 ![architecture](https://github.com/user-attachments/assets/76431108-cf53-49f9-86e3-b1273db6a42a)
 
+## Dashboard
+<img width="928" alt="Screenshot 2024-07-25 at 3 45 09 PM" src="https://github.com/user-attachments/assets/2696d696-4896-4eb8-a0b2-de63e3a11795">
+
+

@@ -1,4 +1,4 @@
-# GitHub-Engineering-Metrics-Dashboard
+# GitHub Repository Analytics & Insights Platform: Cloud-Based ETL Pipeline for Engineering Metrics
 
 ## Overview
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured Github Repository data based on the stars count, watchers, forks count and pull requests metrics.
